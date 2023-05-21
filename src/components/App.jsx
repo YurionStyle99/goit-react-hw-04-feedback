@@ -20,6 +20,7 @@ const App = () => {
     }
   };
 
+  
   const countTotalFeedback = () => {
     return good + neutral + bad;
   };
